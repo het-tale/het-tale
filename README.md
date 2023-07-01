@@ -1,4 +1,4 @@
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=het-tale)](https://github.com/mohouyizme/1337-readme)
+<!--[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=het-tale)](https://github.com/mohouyizme/1337-readme)-->
 
 <!--<h1 align="center">Hi 👋, I'm Hasnaa Et-taleby</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>-->
