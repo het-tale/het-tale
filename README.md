@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hasnaa Et-taleby</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h1>Hi 👋, I'm Hasnaa Et-taleby</h1>
+<h3>A passionate frontend developer from Morocco</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=het-tale" alt="het-tale" /></a> </p>-->
-<a href="https://github.com/oakoudad/badge42" ><img src="https://badge.mediaplus.ma/starryblue/het-tale" alt="het-tale's 42 stats" align="center" /></a>
+<a href="https://github.com/oakoudad/badge42" ><img src="https://badge.mediaplus.ma/starryblue/het-tale" alt="het-tale's 42 stats"/></a>
 
 - 🔭 I’m currently working on **ft_transcendence**
 
