@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Hasnaa Et-taleby</h1>
+<h1 align="center">Hi 👋, I'm Hasnaa Et-taleby</h1>
 <h3>A passionate frontend developer from Morocco</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=het-tale" alt="het-tale" /></a> </p>-->
