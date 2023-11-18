@@ -4,9 +4,9 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=het-tale" alt="het-tale" /></a> </p>-->
 <a href="https://github.com/oakoudad/badge42" ><img src="https://badge.mediaplus.ma/starryblue/het-tale" alt="het-tale's 42 stats"/></a>
 
-- 🔭 I’m currently working on **ft_transcendence**
+- 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently Developing my knowledge in **TypeScript** and **React**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 
