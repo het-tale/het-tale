@@ -4,7 +4,7 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=het-tale" alt="het-tale" /></a> </p>-->
 <a href="https://github.com/oakoudad/badge42" ><img src="https://badge.mediaplus.ma/starryblue/het-tale" alt="het-tale's 42 stats"/></a>
 
-- 🔭 I’m currently working on **my personal ui library of components**
+- 🔭 I’m currently working on **my personal website**
 
 
 
